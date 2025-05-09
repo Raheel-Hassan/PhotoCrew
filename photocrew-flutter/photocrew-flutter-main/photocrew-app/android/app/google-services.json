@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "270287599696",
+    "firebase_url": "https://skdev-302ae-default-rtdb.firebaseio.com",
+    "project_id": "skdev-302ae",
+    "storage_bucket": "skdev-302ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270287599696:android:7a78d1ff603a92b5933955",
+        "android_client_info": {
+          "package_name": "com.app.photocrew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270287599696-vr0ruvbhg2hkpln4dkp92j0udii9o4j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKnE6t4BxCJfk0l9hUmLO5pGtzoNDgecI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270287599696-vr0ruvbhg2hkpln4dkp92j0udii9o4j4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270287599696-lr5q5ip9ljainakv7qerrkdmaqlq1233.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.klomi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270287599696:android:ac720756f1ebc1b6933955",
+        "android_client_info": {
+          "package_name": "com.app.vintagelens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270287599696-vr0ruvbhg2hkpln4dkp92j0udii9o4j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKnE6t4BxCJfk0l9hUmLO5pGtzoNDgecI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270287599696-vr0ruvbhg2hkpln4dkp92j0udii9o4j4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270287599696-lr5q5ip9ljainakv7qerrkdmaqlq1233.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.klomi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270287599696:android:06af65508cfd0921933955",
+        "android_client_info": {
+          "package_name": "com.sk.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270287599696-eqrlb5uohagrc183om5ph42thi4hsnq3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sk.dev",
+            "certificate_hash": "0b114eda1253b47864d7ba41595bd01fcb076277"
+          }
+        },
+        {
+          "client_id": "270287599696-fvm3rm1ee2htlk1qeap6hd09i1iqee7l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sk.dev",
+            "certificate_hash": "516e6191727116846a75c528751e544663996f08"
+          }
+        },
+        {
+          "client_id": "270287599696-p3kb46o7vdh3dl6k2olbj66kmmiormi3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sk.dev",
+            "certificate_hash": "4c56bacff7c43fd0ebb895bc1a42960b9698d9f5"
+          }
+        },
+        {
+          "client_id": "270287599696-vua3g7mrspsi6dpf53mfl1g382oq9c4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sk.dev",
+            "certificate_hash": "61964e686d3594c6da7804de6e895b49ccc8222c"
+          }
+        },
+        {
+          "client_id": "270287599696-vr0ruvbhg2hkpln4dkp92j0udii9o4j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKnE6t4BxCJfk0l9hUmLO5pGtzoNDgecI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270287599696-vr0ruvbhg2hkpln4dkp92j0udii9o4j4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270287599696-lr5q5ip9ljainakv7qerrkdmaqlq1233.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.klomi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
